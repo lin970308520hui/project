@@ -9,4 +9,7 @@ package com.uisftech;
  * @data 2023/6/30 22:24
  */
 public class demo {
+    public static void main(String[] args) {
+        System.out.println("你好");
+    }
 }
